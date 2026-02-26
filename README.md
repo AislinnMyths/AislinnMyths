@@ -12,7 +12,7 @@ Self-taught front-end learner with a background in UX and graphic design, creati
 
 - **Front-end:** HTML5, CSS3, JavaScript (beginner / intermediate)
 - **UX / UI:** basic research, wireframes, prototypes, visual design
-- **Tools:** Figma (or your main tool), Git, GitHub
+- **Tools:** Penpot, Figma, Git, GitHub
 
 ## What I'm working on
 
